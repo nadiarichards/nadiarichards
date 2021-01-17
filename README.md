@@ -22,6 +22,4 @@ Here is some visuals from my project! And feel free to [go here to see our Jupyt
 ![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/4_continent_boxplot.png)
 ![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/wine_consumption_per_capita_by_continent_boxplot.png)
 ![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/life_expectancy_by_continent_boxplot.png)
-![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/alcohol_and_wine_life_expectancy_in_europe_linear_regression.png)
 ![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/wine_consumption_by_gdp_group_worldwide_boxplot.png)
-![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/GDP_and_life_expectancy_worldwide_linear_regression.png)
