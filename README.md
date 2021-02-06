@@ -1,5 +1,5 @@
 ### A little about me
-🔭 I’m currently working on getting very comfortable with SQL
+🔭 I’m currently working on getting very comfortable with AWS
 
 🌱 I’m currently learning Data Science at Columbia University and loving it!
 
