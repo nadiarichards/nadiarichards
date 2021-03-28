@@ -1,7 +1,7 @@
 ### A little about me
-🔭 I’m currently working on getting very comfortable with Cloud Technologies
+🔭 I’m currently working on getting very comfortable with Cloud Technologies.
 
-🌱 I’m graduating very soon from Data Science at Columbia University!!!
+🌱 I’m graduating very soon from an intensive Data Science Bootcamp at Columbia University!!!
 
 👯 I’m looking to collaborate on data and statistics projects!
 
@@ -13,7 +13,7 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I've lived in 4 different countries in my adult life. I'm now settled in the USA and have been here for the past 12 years. I love dogs and had a dachshund for a long time (can't wait to get another one). I love everything data related, seriously! 
+⚡ Fun fact: I've lived in 4 different countries in my adult life. I'm now settled in the USA and have been here for the past 12 years. I love dogs and had a dachshund for a long time (can't wait to get another one). I've always worked with data and did complex analysis in all of my jobs, but now got an extra set of tools thanks to Columbia Engineering Data Science Bootcamp.
 
 ### My Projects so far
 
