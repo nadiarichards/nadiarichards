@@ -1,7 +1,7 @@
 ### A little about me
 🔭 I’m currently working on getting very comfortable with Cloud Technologies
 
-🌱 I’m currently learning Data Science at Columbia University and loving it!
+🌱 I’m graduating very soon from Data Science at Columbia University!!!
 
 👯 I’m looking to collaborate on data and statistics projects!
 
