@@ -60,14 +60,14 @@ Premise: In the wake of a global pandemic, public health and healthcare have ris
 
 ## Dataset Values Utilized and Ensuing Relationships (QuickDBD) 
 ---
-![Screenshot](Noah/QuickDBDv2.JPG)
+![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/QuickDBDv2.JPG)
 
 
 ## Dashboard Charts & Visualizations
 ---
-![Screenshot](Noah/first_third.png)
-![Screenshot](Noah/middle_third.png)
-![Screenshot](Noah/bottom_third.png)
+![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/first_third.png)
+![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/middle_third.png)
+![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/bottom_third.png)
 
 
 # ETL Project
