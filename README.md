@@ -16,7 +16,7 @@
 ⚡ Fun fact: I've lived in 4 different countries in my adult life. I'm now settled in the USA and have been here for the past 12 years. I love dogs and had a dachshund for a long time (can't wait to get another one). I've always worked with data and did complex analysis in all of my jobs, but now got an extra set of tools thanks to Columbia Engineering Data Science Bootcamp.
 
 ### My Projects so far (from last to first)
-
+---
 # Full Stack Healthcare Data Analysis Project
 
 This project's main purpose was to make a full stack app that utilizes multiple tools including Python, SQL, Flask API and front-end work with HTML, CSS and JavaScript (Plotly, Leaflet, D3 libraries). We chose several datasets to achieve that specifically for healthcare revenue space. We originally pulled and cleaned data that had multiple data points to quantify value of care as well including readmission ratio in each facility based on different care categories (that table is in our PostreSQL, but we ended up not using it in our visualizations), clinical outcomes dataset  per facility/zip code as well as dataset with hospital-acquired infections. We have also explored more detailed Census data including poverty rate per zipcode as well as total population and it's racial distribution. We wanted to explore a deeper relationshios between multitude of those variables, but were limited with having to choose to present 3 visualizations as well as very limited timeframe. There is definitely space for further exploration within these topics. 
@@ -58,7 +58,7 @@ This project's main purpose was to make a full stack app that utilizes multiple 
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/middle_third.png)
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/bottom_third.png)
 
-
+---
 # ETL Project
 
 Worked on 6 CSVs from [Data.World](https://data.world/) to find information on Oscar-winning movies to get the data on the movies that have won Oscars since year 2000. Please see [my Jupyter notebook here.](https://github.com/nadiarichards/ETL-Project/blob/main/Nadia/Nadias_ETL_notebook.ipynb) What I wanted to look into was the following:
@@ -80,6 +80,7 @@ Please see my Database image as well as final join code and output for the 5 tab
 
 ![join_tebles_output](https://github.com/nadiarichards/ETL-Project/blob/main/Images/final_join_output.png)
 
+---
 # First Python Visualization Project
 
 So far I've done one project and working on my next one!
