@@ -23,24 +23,22 @@ This project's main purpose was to make a full stack app that utilizes multiple 
 
 ## Tools and Technology Used for Analysis
 
-* VSCode
-* Healthcare Data CSVs
+* Visual Studio Code
 * Python
 * Jupyter Notebook
 * Pandas
 * QuickDBD
 * SQL
 * PostgreSQL
-* APIs
-* Javascript
-* D3
-* Plotly
-* Leaflet
+* Census API
+* JavaScript
+* D3.js
+* Plotly.js
+* Leaflet.js
 * MapBox
 * CSS
 * HTML
 * Flask App
-
 
 ## Process Flow
 
@@ -52,10 +50,8 @@ This project's main purpose was to make a full stack app that utilizes multiple 
 6. Generate Dashboard using D3, MapBox, Plotly, and Leaflet
 7. HTML and CSS formatting / organization
 
-
 ## Dataset Values Utilized and Ensuing Relationships (QuickDBD) 
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/QuickDBDv2.JPG)
-
 
 ## Dashboard Charts & Visualizations
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/first_third.png)
