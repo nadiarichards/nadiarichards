@@ -78,7 +78,9 @@ I had to the do the following transformations to the data to prepare it for the 
 As the end result, I had created 5 tables in the Database in PosgreSQL, which we later joined on movie_title. 
 Please see my Database image as well as final join code and output for the 5 tables in PosgreSQL.
 ![diagram](https://github.com/nadiarichards/ETL-Project/blob/main/Images/diagram.png/)
+
 ![join_tables](https://github.com/nadiarichards/ETL-Project/blob/main/Images/final_join_sql.png)
+
 ![join_tebles_output](https://github.com/nadiarichards/ETL-Project/blob/main/Images/final_join_output.png)
 
 # First Python Visualization Project
