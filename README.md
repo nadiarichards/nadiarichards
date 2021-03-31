@@ -19,8 +19,6 @@
 
 # Full Stack Healthcare Data Analysis Project
 
-## Background
-
 This project's main purpose was to make a full stack app that utilizes multiple tools including Python, SQL, Flask API and front-end work with HTML, CSS and JavaScript (Plotly, Leaflet, D3 libraries). We chose several datasets to achieve that specifically for healthcare revenue space. We originally pulled and cleaned data that had multiple data points to quantify value of care as well including readmission ratio in each facility based on different care categories (that table is in our PostreSQL, but we ended up not using it in our visualizations), clinical outcomes dataset  per facility/zip code as well as dataset with hospital-acquired infections. We have also explored more detailed Census data including poverty rate per zipcode as well as total population and it's racial distribution. We wanted to explore a deeper relationshios between multitude of those variables, but were limited with having to choose to present 3 visualizations as well as very limited timeframe. There is definitely space for further exploration within these topics. 
 
 Premise: In the wake of a global pandemic, public health and healthcare have risen to the forefront of the public eye. Questions have been raised and scenarios proposed about our current healthcare system and the flaws within it. We took an extensive look at the various care models across the country and how they compare in terms of Medicare/Medicaid payments per condition type, as well as how they vary across the country. By focusing specifically on Heart Failure, Pneumonia, Hip/Knee Replacements, and Heart Attacks, we were able to take an in depth look at medical data and develop the results detailed below. 
