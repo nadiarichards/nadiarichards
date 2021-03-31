@@ -77,6 +77,7 @@ I had to the do the following transformations to the data to prepare it for the 
 5. Other things I did was: change column names, lowercase them, replace spaces in column names with the underscore symbol, reset index in the dataframe.
 As the end result, I had created 5 tables in the Database in PosgreSQL, which we later joined on movie_title. 
 Please see my Database image as well as final join code and output for the 5 tables in PosgreSQL.
+
 ![diagram](https://github.com/nadiarichards/ETL-Project/blob/main/Images/diagram.png/)
 
 ![join_tables](https://github.com/nadiarichards/ETL-Project/blob/main/Images/final_join_sql.png)
