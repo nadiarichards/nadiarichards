@@ -88,5 +88,5 @@ My first project involved analyzing large pieces of Data from 12 CSVs (from WHO,
 Here is some visuals from my project! And feel free to [go here to see our Jupyter notebooks!](https://github.com/nadiarichards/data-analysis-project-1/tree/main/Finalized_project_work)
 ![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Finalized_project_work/Images/4_continent_boxplot.png)
 ![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Images/wine_consumption_averages_vs_wine_consumption_at_latest_timepoint_scatterplot.png)
-![](img src=https://github.com/nadiarichards/data-analysis-project-1/blob/main/Images/2_top_5_pie_chart.png)
+![](https://github.com/nadiarichards/data-analysis-project-1/blob/main/Images/2_top_5_pie_chart.png)
 
