@@ -15,7 +15,7 @@
 
 ⚡ Fun fact: I've lived in 4 different countries in my adult life. I'm now settled in the USA and have been here for the past 12 years. I love dogs and had a dachshund for a long time (can't wait to get another one). I've always worked with data and did complex analysis in all of my jobs, but now got an extra set of tools thanks to Columbia Engineering Data Science Bootcamp.
 
-# My Projects so far (from last to first)
+### My Projects so far (from last to first)
 
 # Full Stack Healthcare Data Analysis Project
 
