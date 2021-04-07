@@ -58,6 +58,9 @@ This project's main purpose was to make a full stack app that utilizes multiple 
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/middle_third.png)
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/bottom_third.png)
 
+## Tableau Dashboards
+![Hospital Readmissions Dashboard](https://github.com/nadiarichards/tableau-challenge/blob/main/Hospital%20Readmissions%20Dashboard.png)
+![Hospital Readmissions Dashboard](https://github.com/nadiarichards/tableau-challenge/blob/main/Poverty%20and%20Hospital%20Mortality%20as%20an%20Outcome.png)
 ---
 # ETL Project
 
