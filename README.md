@@ -58,9 +58,12 @@ This project's main purpose was to make a full stack app that utilizes multiple 
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/middle_third.png)
 ![Screenshot](https://github.com/nadiarichards/project2/blob/main/Noah/bottom_third.png)
 
-## Tableau Dashboards
+## Tableau Interactive Dashboards
+Please see my Tableau Public [here](https://public.tableau.com/profile/nadia2360#!/) to interact with these and other visualizations.
+### Medicare/Medicaid Excess Readmissions by State
 ![Hospital Readmissions Dashboard](https://github.com/nadiarichards/tableau-challenge/blob/main/Hospital%20Readmissions%20Dashboard.png)
-![Hospital Readmissions Dashboard](https://github.com/nadiarichards/tableau-challenge/blob/main/Poverty%20and%20Hospital%20Mortality%20as%20an%20Outcome.png)
+### Poverty Rate and Hopsital Mortality by State
+![Poverty rate and Mortality](https://github.com/nadiarichards/tableau-challenge/blob/main/Poverty%20and%20Hospital%20Mortality%20as%20an%20Outcome.png)
 ---
 # ETL Project
 
