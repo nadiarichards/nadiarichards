@@ -1,5 +1,5 @@
 ### A little about me
-🔭 I’m currently working on getting very comfortable with Cloud Technologies.
+🔭 I’m currently working on deploying my projects in the Cloud.
 
 🌱 I’m graduating very soon from an intensive Data Science Bootcamp at Columbia University!!!
 
