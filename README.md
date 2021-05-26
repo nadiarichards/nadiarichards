@@ -1,13 +1,13 @@
 ### A little about me
 🔭 I’m currently working on deploying my projects in the Cloud.
 
-🌱 I’m graduating very soon from an intensive Data Science Bootcamp at Columbia University!!!
+🌱 Graduated Columbia University Data Science Bootcamp and Per Scholas AWS re/Start program! Now an AWS Certified Cloud Practioner!
 
-👯 I’m looking to collaborate on data and statistics projects!
+👯 I’m looking to collaborate on data and statistics projects and it's deployment in the cloud!
 
 🤔 I’d love any suggestions on break-throughs in data science.
 
-💬 Ask me about finance, operations and hospitality, happy to help!
+💬 Ask me about data, bootcamps and finance - happy to help!
 
 📫 How to reach me: nadia.richards.nyc@gmail.com
 
