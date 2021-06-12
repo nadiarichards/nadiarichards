@@ -1,7 +1,8 @@
 ### A little about me
-🔭 I’m currently working on deploying my projects in the Cloud.
+🔭 I’m currently working on building Big Data Pipelines with Airflow in Google Cloud.
 
-🌱 Graduated Columbia University Data Science Bootcamp and Per Scholas AWS re/Start program! Now an AWS Certified Cloud Practioner!
+🌱 Graduated Columbia University Data Science Bootcamp and Per Scholas AWS re/Start program! 
+I'm an AWS Certified Cloud Practioner.
 
 👯 I’m looking to collaborate on data and statistics projects and it's deployment in the cloud!
 
